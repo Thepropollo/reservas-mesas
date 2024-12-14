@@ -1,0 +1,19 @@
+.info-section {
+    display: flex;
+    align-items: center;
+    padding: 40px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.info-section img {
+    width: 40%;
+    height: auto;
+    max-width: 600px; /* Ajusta este valor según tus necesidades */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+
